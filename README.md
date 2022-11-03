@@ -1,4 +1,5 @@
-### Hejsan 👋 Mitt namn är Robin Karlsson och jag är systemutvecklare & webbutvecklare!
+### Hejsan 👋 Mitt namn är Robin Karlsson och jag är systemutvecklare & webbutvecklare!  
+### Hello 👋 My name is Robin Karlsson and I am a software developer & web developer!
 
 Systemutvecklare | Webbutvecklare | Software Developer | Web Developer | .NET | C# | Botutveckling | Selenium | JavaScript | React | TypeScript
 
