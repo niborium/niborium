@@ -1,7 +1,7 @@
 ### Hejsan 👋 Mitt namn är Robin Karlsson och jag är systemutvecklare & webbutvecklare!  
 ### Hello 👋 My name is Robin Karlsson and I am a software developer & web developer!
 
-Systemutvecklare | Webbutvecklare | Software Developer | Web Developer | .NET | C# | Botutveckling | Selenium | JavaScript | React | TypeScript
+Systemutvecklare | Webbutvecklare | Software Developer | Web Developer | .NET | C# | Botutveckling | Bot Development | Selenium | JavaScript | React | TypeScript
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=niborium)](https://github.com/ryo-ma/github-profile-trophy)
 
